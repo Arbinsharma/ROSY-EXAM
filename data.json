@@ -1,0 +1,1322 @@
+{
+  "app": {
+    "name": "Rosy Exam Planner",
+    "email": "prashantvushal@gmail.com",
+    "facebook": "https://facebook.com/Arbin194",
+    "profile": {
+      "name": "Prashant / Arbin",
+      "grade": "9",
+      "interests": [
+        "Web development",
+        "Cybersecurity"
+      ],
+      "image": "assets/profile.jpg"
+    }
+  },
+  "classes": [
+    {
+      "id": "10",
+      "name": "Grade 10"
+    },
+    {
+      "id": "9",
+      "name": "Grade 9"
+    },
+    {
+      "id": "8",
+      "name": "Grade 8"
+    },
+    {
+      "id": "7",
+      "name": "Grade 7"
+    },
+    {
+      "id": "6",
+      "name": "Grade 6"
+    },
+    {
+      "id": "5",
+      "name": "Grade 5"
+    },
+    {
+      "id": "4",
+      "name": "Grade 4"
+    },
+    {
+      "id": "3",
+      "name": "Grade 3"
+    },
+    {
+      "id": "2",
+      "name": "Grade 2"
+    },
+    {
+      "id": "1",
+      "name": "Grade 1"
+    },
+    {
+      "id": "ukg",
+      "name": "UKG"
+    },
+    {
+      "id": "lkg",
+      "name": "LKG"
+    },
+    {
+      "id": "nursery",
+      "name": "Nursery"
+    }
+  ],
+  "exams": [
+    {
+      "id": "10-22-0",
+      "classId": "10",
+      "subject": "Maths",
+      "date": "2026-10-08",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 22, 2083"
+    },
+    {
+      "id": "10-23-1",
+      "classId": "10",
+      "subject": "English",
+      "date": "2026-10-09",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 23, 2083"
+    },
+    {
+      "id": "10-24-2",
+      "classId": "10",
+      "subject": "नेपाली",
+      "date": "2026-10-10",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 24, 2083"
+    },
+    {
+      "id": "10-26-3",
+      "classId": "10",
+      "subject": "Science",
+      "date": "2026-10-12",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 26, 2083"
+    },
+    {
+      "id": "10-27-4",
+      "classId": "10",
+      "subject": "सामाजिक",
+      "date": "2026-10-13",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 27, 2083"
+    },
+    {
+      "id": "10-28-5",
+      "classId": "10",
+      "subject": "O. Maths / Envt.",
+      "date": "2026-10-14",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 28, 2083"
+    },
+    {
+      "id": "10-29-6",
+      "classId": "10",
+      "subject": "Acc / Comp / O.Sci.",
+      "date": "2026-10-15",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 29, 2083"
+    },
+    {
+      "id": "9-22-7",
+      "classId": "9",
+      "subject": "Maths",
+      "date": "2026-10-08",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 22, 2083"
+    },
+    {
+      "id": "9-23-8",
+      "classId": "9",
+      "subject": "English",
+      "date": "2026-10-09",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 23, 2083"
+    },
+    {
+      "id": "9-24-9",
+      "classId": "9",
+      "subject": "नेपाली",
+      "date": "2026-10-10",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 24, 2083"
+    },
+    {
+      "id": "9-26-10",
+      "classId": "9",
+      "subject": "Science",
+      "date": "2026-10-12",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 26, 2083"
+    },
+    {
+      "id": "9-27-11",
+      "classId": "9",
+      "subject": "सामाजिक",
+      "date": "2026-10-13",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 27, 2083"
+    },
+    {
+      "id": "9-28-12",
+      "classId": "9",
+      "subject": "O. Maths / Envt.",
+      "date": "2026-10-14",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 28, 2083"
+    },
+    {
+      "id": "9-29-13",
+      "classId": "9",
+      "subject": "Acc / Comp / O.Sci.",
+      "date": "2026-10-15",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 29, 2083"
+    },
+    {
+      "id": "8-22-14",
+      "classId": "8",
+      "subject": "Maths",
+      "date": "2026-10-08",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 22, 2083"
+    },
+    {
+      "id": "8-23-15",
+      "classId": "8",
+      "subject": "English",
+      "date": "2026-10-09",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 23, 2083"
+    },
+    {
+      "id": "8-24-16",
+      "classId": "8",
+      "subject": "नेपाली",
+      "date": "2026-10-10",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 24, 2083"
+    },
+    {
+      "id": "8-26-17",
+      "classId": "8",
+      "subject": "Science",
+      "date": "2026-10-12",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 26, 2083"
+    },
+    {
+      "id": "8-27-18",
+      "classId": "8",
+      "subject": "सामाजिक",
+      "date": "2026-10-13",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 27, 2083"
+    },
+    {
+      "id": "8-28-19",
+      "classId": "8",
+      "subject": "HP",
+      "date": "2026-10-14",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 28, 2083"
+    },
+    {
+      "id": "8-29-20",
+      "classId": "8",
+      "subject": "LC/Comp",
+      "date": "2026-10-15",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 29, 2083"
+    },
+    {
+      "id": "7-22-21",
+      "classId": "7",
+      "subject": "Maths",
+      "date": "2026-10-08",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 22, 2083"
+    },
+    {
+      "id": "7-23-22",
+      "classId": "7",
+      "subject": "English",
+      "date": "2026-10-09",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 23, 2083"
+    },
+    {
+      "id": "7-24-23",
+      "classId": "7",
+      "subject": "नेपाली",
+      "date": "2026-10-10",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 24, 2083"
+    },
+    {
+      "id": "7-26-24",
+      "classId": "7",
+      "subject": "Science",
+      "date": "2026-10-12",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 26, 2083"
+    },
+    {
+      "id": "7-27-25",
+      "classId": "7",
+      "subject": "सामाजिक",
+      "date": "2026-10-13",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 27, 2083"
+    },
+    {
+      "id": "7-28-26",
+      "classId": "7",
+      "subject": "HP",
+      "date": "2026-10-14",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 28, 2083"
+    },
+    {
+      "id": "7-29-27",
+      "classId": "7",
+      "subject": "Comp",
+      "date": "2026-10-15",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 29, 2083"
+    },
+    {
+      "id": "6-22-28",
+      "classId": "6",
+      "subject": "Maths",
+      "date": "2026-10-08",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 22, 2083"
+    },
+    {
+      "id": "6-23-29",
+      "classId": "6",
+      "subject": "English",
+      "date": "2026-10-09",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 23, 2083"
+    },
+    {
+      "id": "6-24-30",
+      "classId": "6",
+      "subject": "नेपाली",
+      "date": "2026-10-10",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 24, 2083"
+    },
+    {
+      "id": "6-26-31",
+      "classId": "6",
+      "subject": "Science",
+      "date": "2026-10-12",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 26, 2083"
+    },
+    {
+      "id": "6-27-32",
+      "classId": "6",
+      "subject": "सामाजिक",
+      "date": "2026-10-13",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 27, 2083"
+    },
+    {
+      "id": "6-28-33",
+      "classId": "6",
+      "subject": "HP",
+      "date": "2026-10-14",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 28, 2083"
+    },
+    {
+      "id": "6-29-34",
+      "classId": "6",
+      "subject": "Comp",
+      "date": "2026-10-15",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 29, 2083"
+    },
+    {
+      "id": "5-22-35",
+      "classId": "5",
+      "subject": "Maths",
+      "date": "2026-10-08",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 22, 2083"
+    },
+    {
+      "id": "5-23-36",
+      "classId": "5",
+      "subject": "English",
+      "date": "2026-10-09",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 23, 2083"
+    },
+    {
+      "id": "5-24-37",
+      "classId": "5",
+      "subject": "नेपाली",
+      "date": "2026-10-10",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 24, 2083"
+    },
+    {
+      "id": "5-26-38",
+      "classId": "5",
+      "subject": "Science",
+      "date": "2026-10-12",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 26, 2083"
+    },
+    {
+      "id": "5-27-39",
+      "classId": "5",
+      "subject": "सामाजिक",
+      "date": "2026-10-13",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 27, 2083"
+    },
+    {
+      "id": "5-28-40",
+      "classId": "5",
+      "subject": "HP",
+      "date": "2026-10-14",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 28, 2083"
+    },
+    {
+      "id": "5-29-41",
+      "classId": "5",
+      "subject": "LC/Comp",
+      "date": "2026-10-15",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 29, 2083"
+    },
+    {
+      "id": "4-22-42",
+      "classId": "4",
+      "subject": "Maths",
+      "date": "2026-10-08",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 22, 2083"
+    },
+    {
+      "id": "4-23-43",
+      "classId": "4",
+      "subject": "English",
+      "date": "2026-10-09",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 23, 2083"
+    },
+    {
+      "id": "4-24-44",
+      "classId": "4",
+      "subject": "नेपाली",
+      "date": "2026-10-10",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 24, 2083"
+    },
+    {
+      "id": "4-26-45",
+      "classId": "4",
+      "subject": "Science",
+      "date": "2026-10-12",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 26, 2083"
+    },
+    {
+      "id": "4-27-46",
+      "classId": "4",
+      "subject": "सामाजिक",
+      "date": "2026-10-13",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 27, 2083"
+    },
+    {
+      "id": "4-28-47",
+      "classId": "4",
+      "subject": "HP",
+      "date": "2026-10-14",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 28, 2083"
+    },
+    {
+      "id": "4-29-48",
+      "classId": "4",
+      "subject": "Comp",
+      "date": "2026-10-15",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 29, 2083"
+    },
+    {
+      "id": "3-22-49",
+      "classId": "3",
+      "subject": "Maths",
+      "date": "2026-10-08",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 22, 2083"
+    },
+    {
+      "id": "3-23-50",
+      "classId": "3",
+      "subject": "English",
+      "date": "2026-10-09",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 23, 2083"
+    },
+    {
+      "id": "3-24-51",
+      "classId": "3",
+      "subject": "नेपाली",
+      "date": "2026-10-10",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 24, 2083"
+    },
+    {
+      "id": "3-26-52",
+      "classId": "3",
+      "subject": "Science",
+      "date": "2026-10-12",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 26, 2083"
+    },
+    {
+      "id": "3-27-53",
+      "classId": "3",
+      "subject": "मेरो सेरोफेरो",
+      "date": "2026-10-13",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 27, 2083"
+    },
+    {
+      "id": "3-28-54",
+      "classId": "3",
+      "subject": "Gram",
+      "date": "2026-10-14",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 28, 2083"
+    },
+    {
+      "id": "3-29-55",
+      "classId": "3",
+      "subject": "*****",
+      "date": "2026-10-15",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 29, 2083"
+    },
+    {
+      "id": "2-22-56",
+      "classId": "2",
+      "subject": "Maths",
+      "date": "2026-10-08",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 22, 2083"
+    },
+    {
+      "id": "2-23-57",
+      "classId": "2",
+      "subject": "English",
+      "date": "2026-10-09",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 23, 2083"
+    },
+    {
+      "id": "2-24-58",
+      "classId": "2",
+      "subject": "नेपाली",
+      "date": "2026-10-10",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 24, 2083"
+    },
+    {
+      "id": "2-26-59",
+      "classId": "2",
+      "subject": "Science",
+      "date": "2026-10-12",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 26, 2083"
+    },
+    {
+      "id": "2-27-60",
+      "classId": "2",
+      "subject": "मेरो सेरोफेरो",
+      "date": "2026-10-13",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 27, 2083"
+    },
+    {
+      "id": "2-28-61",
+      "classId": "2",
+      "subject": "Gram",
+      "date": "2026-10-14",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 28, 2083"
+    },
+    {
+      "id": "2-29-62",
+      "classId": "2",
+      "subject": "*****",
+      "date": "2026-10-15",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 29, 2083"
+    },
+    {
+      "id": "1-22-63",
+      "classId": "1",
+      "subject": "Maths",
+      "date": "2026-10-08",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 22, 2083"
+    },
+    {
+      "id": "1-23-64",
+      "classId": "1",
+      "subject": "English",
+      "date": "2026-10-09",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 23, 2083"
+    },
+    {
+      "id": "1-24-65",
+      "classId": "1",
+      "subject": "नेपाली",
+      "date": "2026-10-10",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 24, 2083"
+    },
+    {
+      "id": "1-26-66",
+      "classId": "1",
+      "subject": "Science",
+      "date": "2026-10-12",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 26, 2083"
+    },
+    {
+      "id": "1-27-67",
+      "classId": "1",
+      "subject": "मेरो सेरोफेरो",
+      "date": "2026-10-13",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 27, 2083"
+    },
+    {
+      "id": "1-28-68",
+      "classId": "1",
+      "subject": "Gram",
+      "date": "2026-10-14",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 28, 2083"
+    },
+    {
+      "id": "1-29-69",
+      "classId": "1",
+      "subject": "*****",
+      "date": "2026-10-15",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 29, 2083"
+    },
+    {
+      "id": "ukg-22-70",
+      "classId": "ukg",
+      "subject": "Maths",
+      "date": "2026-10-08",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 22, 2083"
+    },
+    {
+      "id": "ukg-23-71",
+      "classId": "ukg",
+      "subject": "English",
+      "date": "2026-10-09",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 23, 2083"
+    },
+    {
+      "id": "ukg-24-72",
+      "classId": "ukg",
+      "subject": "नेपाली",
+      "date": "2026-10-10",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 24, 2083"
+    },
+    {
+      "id": "ukg-26-73",
+      "classId": "ukg",
+      "subject": "Science",
+      "date": "2026-10-12",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 26, 2083"
+    },
+    {
+      "id": "ukg-27-74",
+      "classId": "ukg",
+      "subject": "Social",
+      "date": "2026-10-13",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 27, 2083"
+    },
+    {
+      "id": "ukg-28-75",
+      "classId": "ukg",
+      "subject": "Phonics",
+      "date": "2026-10-14",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 28, 2083"
+    },
+    {
+      "id": "ukg-29-76",
+      "classId": "ukg",
+      "subject": "*****",
+      "date": "2026-10-15",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 29, 2083"
+    },
+    {
+      "id": "lkg-22-77",
+      "classId": "lkg",
+      "subject": "Maths",
+      "date": "2026-10-08",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 22, 2083"
+    },
+    {
+      "id": "lkg-23-78",
+      "classId": "lkg",
+      "subject": "English",
+      "date": "2026-10-09",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 23, 2083"
+    },
+    {
+      "id": "lkg-24-79",
+      "classId": "lkg",
+      "subject": "नेपाली",
+      "date": "2026-10-10",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 24, 2083"
+    },
+    {
+      "id": "lkg-26-80",
+      "classId": "lkg",
+      "subject": "Science",
+      "date": "2026-10-12",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 26, 2083"
+    },
+    {
+      "id": "lkg-27-81",
+      "classId": "lkg",
+      "subject": "Social",
+      "date": "2026-10-13",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 27, 2083"
+    },
+    {
+      "id": "lkg-28-82",
+      "classId": "lkg",
+      "subject": "Phonics",
+      "date": "2026-10-14",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 28, 2083"
+    },
+    {
+      "id": "lkg-29-83",
+      "classId": "lkg",
+      "subject": "*****",
+      "date": "2026-10-15",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 29, 2083"
+    },
+    {
+      "id": "nursery-22-84",
+      "classId": "nursery",
+      "subject": "Math",
+      "date": "2026-10-08",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 22, 2083"
+    },
+    {
+      "id": "nursery-23-85",
+      "classId": "nursery",
+      "subject": "Math O",
+      "date": "2026-10-09",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 23, 2083"
+    },
+    {
+      "id": "nursery-24-86",
+      "classId": "nursery",
+      "subject": "English",
+      "date": "2026-10-10",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 24, 2083"
+    },
+    {
+      "id": "nursery-26-87",
+      "classId": "nursery",
+      "subject": "English O",
+      "date": "2026-10-12",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 26, 2083"
+    },
+    {
+      "id": "nursery-27-88",
+      "classId": "nursery",
+      "subject": "नेपाली",
+      "date": "2026-10-13",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 27, 2083"
+    },
+    {
+      "id": "nursery-28-89",
+      "classId": "nursery",
+      "subject": "नेपाली मौ.",
+      "date": "2026-10-14",
+      "time": "11:00 AM–2:00 PM",
+      "sourceDate": "Asoj 28, 2083"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 59,
+      "name": "Vivek Chaudhary",
+      "phone": "9866929458",
+      "department": "E.C.A Depart",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Tika Ram Chaudhary",
+      "phone": "9847860829",
+      "department": "E.C.A Depart",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "name": "Hum Nath Regmi",
+      "phone": "9847969688",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 61,
+      "name": "Mamata chaudhary",
+      "phone": "9863125492",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 62,
+      "name": "Tirtha Pandit",
+      "phone": "9847825670",
+      "department": "Teachers",
+      "jobType": "Part Time",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Basanta Neupane",
+      "phone": "9857840548",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "name": "Ramesh Chaudhary",
+      "phone": "9847840727",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 57,
+      "name": "Binita Chaudhary",
+      "phone": "9857840988",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 7,
+      "name": "Vivek Chaudhary",
+      "phone": "9866928458",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 58,
+      "name": "Reeta KC Neupane",
+      "phone": "9866913075",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 9,
+      "name": "Khim Prasad Ghimire",
+      "phone": "9847968237",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 10,
+      "name": "Ramesh Khanal",
+      "phone": "9866770645",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 11,
+      "name": "Suraxya Shrestha",
+      "phone": "9841454296",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 12,
+      "name": "Rabin Khsu Magar",
+      "phone": "9829511370",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 13,
+      "name": "Madhav Oli",
+      "phone": "9847854578",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 14,
+      "name": "Shila Subedi",
+      "phone": "9864926530",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 15,
+      "name": "Sita Thapa",
+      "phone": "9809797291",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 16,
+      "name": "Ranjan Chaudhary",
+      "phone": "9761896078",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 17,
+      "name": "Sumitra Aryal",
+      "phone": "9847857839",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 18,
+      "name": "Arpana Yadav",
+      "phone": "9822974132",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 19,
+      "name": "Ranjita Pachhaldinga",
+      "phone": "9865706388",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 20,
+      "name": "Pooja Neupane",
+      "phone": "9844957680",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 21,
+      "name": "Nisha Sapkota",
+      "phone": "9804653074",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 22,
+      "name": "Dimka Chaudhary",
+      "phone": "9822891672",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 23,
+      "name": "Sharada Aryal",
+      "phone": "9847805238",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 24,
+      "name": "Pooja Neupane",
+      "phone": "9810882416",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 25,
+      "name": "Sirjana Oli",
+      "phone": "9866868883",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 28,
+      "name": "Bhagwoti Shrestha",
+      "phone": "9847968077",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 29,
+      "name": "Yagya Sharma",
+      "phone": "9847931202",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 30,
+      "name": "Saizadi Halwai",
+      "phone": "9866803766",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 31,
+      "name": "Sapana Chaudhary",
+      "phone": "9847905382",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 32,
+      "name": "Rahul BK",
+      "phone": "9703566855",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 33,
+      "name": "Manisha GM",
+      "phone": "9849307166",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 34,
+      "name": "Gaurav Khadka",
+      "phone": "9844996602",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 35,
+      "name": "Krishna Khanal",
+      "phone": "9847903302",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 37,
+      "name": "Ranjita Sharma",
+      "phone": "9847893293",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 38,
+      "name": "Bibek Acharya",
+      "phone": "9748711504",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 39,
+      "name": "Manisha Khanal",
+      "phone": "9842790428",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 41,
+      "name": "Suresh Shah",
+      "phone": "9857840994",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 42,
+      "name": "Purna Bahadur Oli",
+      "phone": "9849072787",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 43,
+      "name": "Nirmal Rawat",
+      "phone": "9866600014",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 44,
+      "name": "Swami Dayal Yadav",
+      "phone": "9847800466",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 45,
+      "name": "Resma Yogi",
+      "phone": "9848058563",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 47,
+      "name": "Shella Sharma",
+      "phone": "9857841060",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 48,
+      "name": "Sushil Bhusal",
+      "phone": "9851051981",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 49,
+      "name": "Manohar Chaudhary",
+      "phone": "9847968240",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 51,
+      "name": "Giriraj Neupane",
+      "phone": "9841017427",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 53,
+      "name": "Mamata Chaudhary",
+      "phone": "9863125492",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 64,
+      "name": "Ajay Yadav",
+      "phone": "9857840988",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 63,
+      "name": "Bijay Bhusal",
+      "phone": "9857840988",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 65,
+      "name": "Sagar khanal",
+      "phone": "9857840988",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 66,
+      "name": "Pooja Thapa Neupane",
+      "phone": "9857840988",
+      "department": "Teachers",
+      "jobType": "Full Time",
+      "gender": "Female"
+    },
+    {
+      "id": 6,
+      "name": "Krishna Ghimire",
+      "phone": "9857840988",
+      "department": "Exam",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 27,
+      "name": "Ganesh Pokhrel",
+      "phone": "9866928541",
+      "department": "Exam",
+      "jobType": "Full Time",
+      "gender": "Male"
+    },
+    {
+      "id": 26,
+      "name": "Rishi Raj Chaudhary",
+      "phone": "9847840895",
+      "department": "Sport",
+      "jobType": "Full Time",
+      "gender": "Male"
+    }
+  ],
+  "resources": {
+    "9": [
+      {
+        "subject": "Mathematics",
+        "title": "गणित कक्षा ९ (२०८१)",
+        "url": "https://moecdc.gov.np/content/63/nepali-class-4/",
+        "official": true
+      },
+      {
+        "subject": "Mathematics",
+        "title": "Mathematics Grade 9 (English translation)",
+        "url": "https://moecdc.gov.np/content/62/mathematics-/",
+        "official": true
+      },
+      {
+        "subject": "Nepali",
+        "title": "नेपाली कक्षा ९ (२०८२)",
+        "url": "https://moecdc.gov.np/content/587/nepali-class---9/",
+        "official": true
+      },
+      {
+        "subject": "Science",
+        "title": "विज्ञान तथा प्रविधि कक्षा ९ (अनुवादित संस्करण)",
+        "url": "https://moecdc.gov.np/content/60/science-and-technology-classions-9--english-translation-/",
+        "official": true
+      },
+      {
+        "subject": "English",
+        "title": "English Grade 9 — CDC / Government of Nepal",
+        "url": "https://moecdc.gov.np/storage/gallery/1688289325.pdf",
+        "official": true
+      },
+      {
+        "subject": "Social Studies",
+        "title": "सामाजिक अध्ययन कक्षा - ९ — CDC catalogue",
+        "url": "https://lib.moecdc.gov.np/catalog/opac_css/index.php?id=15056&lvl=notice_display",
+        "official": true
+      }
+    ],
+    "all": "https://lib.moecdc.gov.np/catalog/opac_css/index.php?id=19+title%3D&lvl=etagere_see"
+  },
+  "chapters": {
+    "9": {
+      "Mathematics": [
+        "Sets",
+        "Profit and Loss",
+        "Commission and Taxation",
+        "Home Arithmetic",
+        "Area",
+        "Solids",
+        "Algebraic Expressions",
+        "Indices",
+        "Ratio and Proportion",
+        "Linear Equations",
+        "Quadratic Equations",
+        "Triangles",
+        "Parallelograms",
+        "Construction",
+        "Similarity",
+        "Circles",
+        "Trigonometry",
+        "Statistics",
+        "Probability"
+      ],
+      "Optional Mathematics": [
+        "Algebra",
+        "Concept of limit",
+        "Matrices",
+        "Coordinates Geometry",
+        "Trigonometry",
+        "Vector",
+        "Transformation",
+        "Statistics"
+      ],
+      "Science": [
+        "Use the official CDC Grade 9 Science textbook"
+      ],
+      "English": [
+        "Use the official CDC Grade 9 English textbook"
+      ],
+      "Nepali": [
+        "Use the official CDC Grade 9 Nepali textbook"
+      ],
+      "Social Studies": [
+        "Use the official CDC Grade 9 Social Studies textbook"
+      ]
+    }
+  }
+}
